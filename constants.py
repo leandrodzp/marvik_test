@@ -1,0 +1,2 @@
+SIMPLE_DAY_FORMAT = "%Y-%d-%m"
+VERBOSE_DATE_FORMAT = "%Y-%m-%d %H:%M:%S"
