@@ -2,7 +2,7 @@
 
 ## Description
 
-This implements an API with an only enpoint in `/date` route accepting a `verbose` param and returning the actual date with format depending on `verbose` value.
+This implements an API with an only enpoint in `/date` route accepting a `verbose` param **in the request body** and returning the actual date with format depending on `verbose` value.
 
 - If `verbose` is false or missing the format will be `aaaa-mm-dd hh:ii:ss`.
 
